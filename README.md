@@ -49,11 +49,11 @@
 
 > ### Extra
 
-| Feature                              | Status | Info          |
-| :----------------------------------- | ------ | ------------------- |
-| iCloud, iMessage, FaceTime           | ✅ Working | Requires proper SMBIOS (MacPro 7,1) |
-| AirDrop                              | ✅ Working | N/A  |
-| Time Machine                         | ✅ Working | Works Natively | 
+| Feature                              | Status         | Info                                |
+| :----------------------------------- | -------------- | ----------------------------------- |
+| iCloud, iMessage, FaceTime           | ✅ Working     | Requires proper SMBIOS (MacPro 7,1) |
+| AirDrop                              | ❌ Not Working | Requires Bluetooth to function.     |
+| Time Machine                         | ✅ Working     | Works Natively                      | 
 
 </details>
 
