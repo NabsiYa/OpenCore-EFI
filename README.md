@@ -14,7 +14,7 @@
 | GPU Acceleration (RX 6800 XT)        | ✅ Working | No dependencies works natively. |
 | CPU (Ryzen 7 5800)                   | ✅ Working | Requires [AMD Vanilla Patches](https://github.com/AMD-OSX/AMD_Vanilla)  |
 | Audio (ALC897)                       | ✅ Working | `AppleALC.kext` (Layout-id: 11) | 
-| WiFi (AC1300)                        | ✅ Working | Works using `RtWlan.kext` and `RtWlanU1827.kext` (Requires [Wireless USB Big Sur Adapter](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/releases/tag/V15)) |
+| WiFi (Archer T3U)                    | ✅ Working | Works using `RtWlan.kext` and `RtWlanU1827.kext` (Requires [Wireless USB Big Sur Adapter](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/releases/tag/V15)) |
 | Ethernet (RTL8111)                   | ✅ Working | `RealtekRTL8111.kext` |
 | Bluetooth                            | ❌ Not Working | N/A |
 
