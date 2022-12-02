@@ -1,5 +1,7 @@
 <h1 align="center">Hackintosh build for the Lenovo Legion T5 26AMR5</h1>
 
+<img src="/images/desktop.png">
+
 <p align="center">
 	<img src="https://img.shields.io/badge/Ventura-13.0.1-sucess">
 	<img src="https://img.shields.io/badge/Monterey-12.6-sucess">
